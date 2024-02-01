@@ -1,0 +1,24 @@
+{
+  "name": "home-ftp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mp5maker/home-ftp-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mp5maker/home-ftp-server/issues"
+  },
+  "homepage": "https://github.com/mp5maker/home-ftp-server#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ftp-srv": "^4.6.3"
+  }
+}
